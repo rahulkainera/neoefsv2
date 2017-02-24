@@ -127,7 +127,7 @@
         <div class="content">
             <div class="title">Eagle Financial Services</div>
             <div class="links">
-                <a href="http://localhost/efs/public/customers">Customers|</a>
+                <a href="/customers">Customers|</a>
                 <a href="http://www.cnn.com/us"> News |</a>
                 <a href="https://www.google.com/finance?ei=s2isWLHpK6KsmgGTx4ygDQ#stockscreener"> Live Stocks</a>
             </div>
