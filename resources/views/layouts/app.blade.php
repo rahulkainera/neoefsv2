@@ -54,7 +54,7 @@
                 </ul>
 
                 <ul class="nav navbar-nav-Center">
-                    <li><a href="{{ url('//localhost/efs/public/customers') }}">Client Portfolio List</a></li>
+                    <li><a href="{{ url('/customers') }}">Client Portfolio List</a></li>
                 </ul>
 
 
