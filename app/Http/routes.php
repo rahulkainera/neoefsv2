@@ -7,7 +7,7 @@ Route::resource('Home','welcome');
 Route::resource('customers','CustomerController');
 Route::resource('stocks','StockController');
 Route::resource('investments','InvestmentController');
-
+Route::resource('mutualfunds','MutualfundController');
 Route::get('profile', function () {
     // Only authenticated users may enter...
 })->middleware('auth');
